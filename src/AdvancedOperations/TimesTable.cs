@@ -22,7 +22,7 @@ namespace AdvancedOperations
                 return;
             }
 
-            for(int i = 1; i < 10; i++){
+            for(int i = 1; i < 11; i++){
                 result = i * num;
                 Console.WriteLine($"{i} x {num} = {result}");
             }

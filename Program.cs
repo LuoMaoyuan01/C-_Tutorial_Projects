@@ -14,7 +14,8 @@ namespace MyFirstProject
 
             // AdvancedOperations.AgeChecker.Execute();
             // AdvancedOperations.NumConverter.Execute();
-            AdvancedOperations.TimesTable.Execute();
+            // AdvancedOperations.TimesTable.Execute();
+            AdvancedOperations.FizzBuzz.Execute();
 
         }
     }
