@@ -12,3 +12,4 @@ C:\Users\luoma\OneDrive\Documents\C_Hash_Tutorial\obj\Debug\net9.0\refint\C_Hash
 C:\Users\luoma\OneDrive\Documents\C_Hash_Tutorial\obj\Debug\net9.0\C_Hash_Tutorial.pdb
 C:\Users\luoma\OneDrive\Documents\C_Hash_Tutorial\obj\Debug\net9.0\C_Hash_Tutorial.genruntimeconfig.cache
 C:\Users\luoma\OneDrive\Documents\C_Hash_Tutorial\obj\Debug\net9.0\ref\C_Hash_Tutorial.dll
+C:\Users\luoma\OneDrive\Documents\C_Hash_Tutorial\obj\Debug\net9.0\C_Hash_Tutorial.sourcelink.json

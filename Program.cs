@@ -13,7 +13,8 @@ namespace MyFirstProject
             // BasicOperations.DayChecker.Execute();
 
             // AdvancedOperations.AgeChecker.Execute();
-            AdvancedOperations.NumConverter.Execute();
+            // AdvancedOperations.NumConverter.Execute();
+            AdvancedOperations.TimesTable.Execute();
 
         }
     }
